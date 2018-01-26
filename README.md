@@ -1,4 +1,5 @@
 # EventfulApiClient
+<img src = https://commons.wikimedia.org/wiki/File:Eventful_logo.png>
 
 # Description  </br> 
 Api Client to Search events on http://eventful.com </br> 
