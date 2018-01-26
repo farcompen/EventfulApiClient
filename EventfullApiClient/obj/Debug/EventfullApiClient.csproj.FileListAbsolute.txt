@@ -1,0 +1,9 @@
+c:\users\khb\documents\visual studio 2015\Projects\EventfullApiClient\EventfullApiClient\bin\Debug\EventfullApiClient.exe.config
+c:\users\khb\documents\visual studio 2015\Projects\EventfullApiClient\EventfullApiClient\bin\Debug\EventfullApiClient.exe
+c:\users\khb\documents\visual studio 2015\Projects\EventfullApiClient\EventfullApiClient\bin\Debug\EventfullApiClient.pdb
+c:\users\khb\documents\visual studio 2015\Projects\EventfullApiClient\EventfullApiClient\obj\Debug\EventfullApiClient.exe
+c:\users\khb\documents\visual studio 2015\Projects\EventfullApiClient\EventfullApiClient\obj\Debug\EventfullApiClient.pdb
+c:\users\khb\documents\visual studio 2015\Projects\EventfullApiClient\EventfullApiClient\bin\Debug\Newtonsoft.Json.dll
+c:\users\khb\documents\visual studio 2015\Projects\EventfullApiClient\EventfullApiClient\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\khb\documents\visual studio 2015\Projects\EventfullApiClient\EventfullApiClient\bin\Debug\Newtonsoft.Json.xml
+c:\users\khb\documents\visual studio 2015\Projects\EventfullApiClient\EventfullApiClient\bin\Debug\System.Net.Http.Formatting.xml
