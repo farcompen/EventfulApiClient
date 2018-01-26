@@ -3,7 +3,7 @@
 
 # Description  </br> 
 Api Client to Search events on http://eventful.com </br> 
-It shows 20 events result of  current month. 
+It shows 20 events(as default) results of  current month.(optional ) 
 The location is getting from user..</br>
 
 
